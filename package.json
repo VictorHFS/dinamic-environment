@@ -1,0 +1,19 @@
+{
+  "name": "dinamic-enviroment",
+  "version": "1.0.0",
+  "description": "Virtual dinamic environment research",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorHFS/dinamic-environment.git"
+  },
+  "author": "Victor Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorHFS/dinamic-environment/issues"
+  },
+  "homepage": "https://github.com/VictorHFS/dinamic-environment#readme"
+}
